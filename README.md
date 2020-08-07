@@ -1,5 +1,6 @@
 # MeshWalker: Deep Mesh Understanding by Random Walks
 <img src='/doc/images/teaser_fig.png'>
+
 Created by [Alon Lahav](mailto:alon.lahav2@gmail.com).
 
 ## Installation
@@ -7,8 +8,10 @@ A step-by-step installation guide for Ubuntu is provided in [INSTALL.md](./INSTA
 
 ## Data
 <img src='/doc/images/segmentaion.gif' align="right" width=600>
+
 Note for this README: each time `<dataset>` is mentioned, 
 it should be replaced by one of the following:
+
 ```
 1. modelnet40
 2. engraved_cubes
@@ -16,6 +19,7 @@ it should be replaced by one of the following:
 4. coseg
 5. human_seg
 ```
+
 You can also use `all` instead of a specific dataset.
 
 ### Raw datasets
