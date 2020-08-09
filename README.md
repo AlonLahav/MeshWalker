@@ -8,8 +8,6 @@ This repository is going to host MeshWalker official implementation.
 ## Installation
 A step-by-step installation guide for Ubuntu is provided in [INSTALL.md](./INSTALL.md).
 
-<img src='/doc/images/segmentaion.gif' align="right" width=600>
-
 ## Data
 Note for this README: each time `<dataset>` is mentioned, 
 it should be replaced by one of the following:
