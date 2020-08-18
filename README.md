@@ -8,8 +8,6 @@ This repository is going to host MeshWalker official implementation.
 ## Installation
 A step-by-step installation guide for Ubuntu is provided in [INSTALL.md](./INSTALL.md).
 
-<img src='/doc/images/segmentaion.gif' align="right" width=600>
-
 ## Data
 Note for this README: each time `<dataset>` is mentioned, 
 it should be replaced by one of the following:
@@ -23,6 +21,8 @@ it should be replaced by one of the following:
 ```
 
 You can also use `all` instead of a specific dataset.
+
+<img src='/doc/images/segmentaion.gif'>
 
 ### Raw datasets
 To get the raw datasets go to the relevant website, 
@@ -42,7 +42,7 @@ Please run `bash ./scripts/download_raw_datasets.sh`. -> to-add-later
 To prepare the data, run `python dataset_prepare.py <dataset>`
 
 Or download the data after processing. 
-Processing will rearrang dataset in `npz` files, labels included, vertex niebours added.
+Processing will rearrange dataset in `npz` files, labels included, vertex niebours added.
 ```
 bash ./scripts/download_processed_<dataset>.sh
 ```
