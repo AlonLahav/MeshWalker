@@ -1,4 +1,5 @@
-# MeshWalker: Deep Mesh Understanding by Random Walks
+# MeshWalker
+## Deep Mesh Understanding by Random Walks
 <img src='/doc/images/teaser_fig.png'>
 
 Created by [Alon Lahav](mailto:alon.lahav2@gmail.com).
