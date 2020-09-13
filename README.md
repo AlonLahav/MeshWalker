@@ -23,7 +23,7 @@ it should be replaced by one of the following:
 
 You can also use `all` instead of a specific dataset.
 
-<img src='/doc/images/segmentaion.gif'>
+<img src='/doc/images/segmentaion_edges_human_body.gif'>
 
 ### Raw datasets
 To get the raw datasets go to the relevant website, 
