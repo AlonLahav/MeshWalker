@@ -1,10 +1,10 @@
-# MeshWalker
-## Deep Mesh Understanding by Random Walks
+# MeshWalker: Deep Mesh Understanding by Random Walks
 <img src='/doc/images/teaser_fig.png'>
 
+## SIGGRAPH ASIA 2020 [[Paper]](https://arxiv.org/abs/2006.05353)
 Created by [Alon Lahav](mailto:alon.lahav2@gmail.com).
 
-This repository is going to host MeshWalker official implementation.
+This repository is going to host [MeshWalker](https://arxiv.org/abs/2006.05353) official implementation.
 
 ## Installation
 A step-by-step installation guide for Ubuntu is provided in [INSTALL.md](./INSTALL.md).
