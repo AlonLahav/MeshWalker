@@ -4,7 +4,7 @@
 ## SIGGRAPH ASIA 2020 [[Paper]](https://arxiv.org/abs/2006.05353)
 Created by [Alon Lahav](mailto:alon.lahav2@gmail.com).
 
-This repository is going to host [MeshWalker](https://arxiv.org/abs/2006.05353) official implementation.
+This repository contains the implementation of [MeshWalker](https://arxiv.org/abs/2006.05353).
 
 ## Installation
 A step-by-step installation guide for Ubuntu is provided in [INSTALL.md](./INSTALL.md).
@@ -115,3 +115,6 @@ If you find our code or paper useful, please consider citing:
   year={2020}
 }
 ```
+
+## Questions / Issues
+If you have questions or issues running this code, please open an issue.
