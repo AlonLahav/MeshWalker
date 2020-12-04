@@ -1,4 +1,4 @@
-tensorflow-gpu==2.*
+tensorflow==2.2.0
 tensorflow-addons==0.8.3
 open3d==0.8.0.0
 easydict
