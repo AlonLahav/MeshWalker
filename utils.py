@@ -39,7 +39,10 @@ def config_gpu(use_gpu=True):
 def get_gpu_temprature():
   output = os.popen("nvidia-smi -q | grep 'GPU Current Temp' | cut -d' ' -f 24").read()
   output = ''.join(filter(str.isdigit, output))
-  temp = int(output)
+  try:
+    temp = int(output)
+  except:
+    temp = 0
   return temp
 
 
