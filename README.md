@@ -97,7 +97,7 @@ python evaluate_segmentation.py <job> <part> <trained model directory>
 `<job>` and `<part>` are define the same as in `train_val.py`. 
 
 ## Pretrained   
-You can use some pretrained models from [our pretrained folder](https://technionmail-my.sharepoint.com/personal/alon_lahav_campus_technion_ac_il/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Falon%5Flahav%5Fcampus%5Ftechnion%5Fac%5Fil%2FDocuments%2Fmesh%5Fwalker%2Fpretrained)  
+You can use some pretrained models from [our pretrained folder](https://cgm.technion.ac.il/Computer-Graphics-Multimedia/Software/MeshWalker/mesh_walker_data/runs_pretrained)  
 to run evaluation only.
 
 Or download them all using
